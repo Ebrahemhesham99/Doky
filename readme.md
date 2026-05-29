@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="assets/logo.png" alt="Doky Logo" width="200"/>
+  <img src="assets/Doky.jpg" alt="Doky Logo" width="200"/>
 </p>
 
 ## Project Overview
