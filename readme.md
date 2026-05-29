@@ -1,12 +1,8 @@
-
-
-<h1 align="center">Doky</h1> — Healthcare Appointment Platform
-
+# Doky — Healthcare Appointment Platform
 
 <p align="center">
-  <img src="assets/Doky.jpg" alt="Doky Logo" width="200"/>
+  <img src="assets/Doky.jpg" alt="Doky Logo" />
 </p>
-
 ## Project Overview
 
 Doky is a modern healthcare platform designed to simplify booking doctor and hospital appointments, managing patient schedules, and accessing healthcare services from one centralized system.
