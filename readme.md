@@ -71,3 +71,6 @@ Users will use Doky because it:
 # Platform Vision
 
 Doky aims to become a trusted digital healthcare ecosystem that improves the connection between patients and healthcare providers through technology, simplicity, and accessibility.
+
+
+![Doky Logo](assets/Doky.jpg)
