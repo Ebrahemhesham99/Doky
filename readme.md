@@ -1,4 +1,11 @@
-# Doky — Healthcare Appointment Platform
+
+
+<h1 align="center">Doky</h1> — Healthcare Appointment Platform
+
+
+<p align="center">
+  <img src="assets/logo.png" alt="Doky Logo" width="200"/>
+</p>
 
 ## Project Overview
 
@@ -72,5 +79,3 @@ Users will use Doky because it:
 
 Doky aims to become a trusted digital healthcare ecosystem that improves the connection between patients and healthcare providers through technology, simplicity, and accessibility.
 
-
-![Doky Logo](assets/Doky.jpg)
